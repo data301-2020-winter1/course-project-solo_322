@@ -1,0 +1,1 @@
+This directory stores any external images used for the project.

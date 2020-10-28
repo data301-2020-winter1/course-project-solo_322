@@ -1,0 +1,1 @@
+This directory includes all the raw data utilized for the analysis.
