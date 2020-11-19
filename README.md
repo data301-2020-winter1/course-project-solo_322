@@ -16,7 +16,7 @@ The available poll data provides an opportunity for understanding the voting hab
 -	Impact of demographic factors on the frequency of participation in voting.
 Some additions may be made to this while moving forward with the analysis. The data seems to provide enough compatibility for being transformed into a user-facing Dashboard as there are a lot of patterns that can be established among multiple factors.
 
-![images/voting_main.png]
+![images/voting_main.jpg]
 *Paul Hennessy/NurPhoto via Zuma Press*
 *Election workers set up voting booths at an early voting site at the Amway Center, Oct. 15, 2020, in Orlando, Florida.*
 
