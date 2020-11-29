@@ -10,13 +10,21 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 ## Describe your topic/interest in about 150-200 words
 
 The available poll data provides an opportunity for understanding the voting habits of Americans in detail and its beauty lies, especially, in the extensive number of variables (a lot of questions) recorded as a part of the study. Interestingly, it is this vastness of recorded variables that allows for answering ample research questions by analysis of patterns and connections between preferences of each respondent and their voting habits; however, the focus of this project would only be centred on answering certain questions in this regard. While the responses to each question and situation would be taken into consideration during analysis, patterns and connection would only be established where necessary, to provide reasoning for the research topic/questions under attention. These include the following:
--	Do Americans realize the importance of voting?
--	How often do they participate in voting?
--	Potential barriers to fair participation in voting practices.
--	Impact of demographic factors on the frequency of participation in voting.
+
+>***1*** *Based on the frequenct of voting, realization of the importance of voting, and the reasons provided by non-frequent voters for not voting, do Americans seem to have a mistaken impression about the concept of voting?*
+>>***1.1*** *What is the distribution of Americans based on their frequency of voting?*
+>>
+>>***1.2*** *What views do they have about the importance of voting based on their age and gender?*
+>>
+>>***1.3*** *For Americans who rarely or never vote, what were the reasons for not voting?*
+
+>***2*** *How difficult do Americans think it is to vote in the national elections? Does age play a role in this thinking?*
+
+>***3*** *Do Americans think that the design and structure of the American Government need change? Does age play a role in this thinking?*
+
 Some additions may be made to this while moving forward with the analysis. The data seems to provide enough compatibility for being transformed into a user-facing Dashboard as there are a lot of patterns that can be established among multiple factors.
 
-![images/voting_main.png]
+![Image](images/voting_main.jpg)
 *Paul Hennessy/NurPhoto via Zuma Press*
 *Election workers set up voting booths at an early voting site at the Amway Center, Oct. 15, 2020, in Orlando, Florida.*
 
